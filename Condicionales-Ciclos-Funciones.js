@@ -7,7 +7,7 @@
 //     return(n % 2 === 0) ? 'número par' : 'número impar'
 // }
 
-// console.log(parOImpar())
+// console.log(parOImpar(6))
 
 
 
